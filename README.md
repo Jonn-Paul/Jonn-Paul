@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jonn-Paul
+- 👀 I’m interested in mobile app development, website development and chatbot development
+- 🌱 I’m currently learning python for use in chatbot development
+- 📫 How to reach me Pauljonathan2580@gmail.com
